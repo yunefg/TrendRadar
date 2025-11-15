@@ -1,40 +1,9 @@
 Steam
 独立游戏
 
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-
-大疆
-DJI
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
 Temu
 电商
 跨境电商
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
 
 chatgpt
 openai
@@ -43,18 +12,10 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
 机器人
 
 国产
 中国
-
-美国
-日本
-韩国
 
 科技
 
